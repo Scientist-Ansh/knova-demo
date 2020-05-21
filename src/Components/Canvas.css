@@ -1,0 +1,11 @@
+.canvas{   
+    display:flex;
+    
+}
+
+.canvas-screen{
+    width:80vw;
+    border:1px solid black;
+    margin-right:10px;
+    background-color: white;
+}
